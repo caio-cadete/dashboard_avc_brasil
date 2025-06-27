@@ -74,12 +74,14 @@ Os dados foram acessados via FTP e portais de dados abertos do Governo Federal.
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Tecnologias e Ferramentas Utilizadas 🛠️
 
-- Power BI (desenvolvimento do dashboard)
-- Python (mineração, limpeza e transformação de dados)
-- FTP/DATASUS
-- Excel (pré-processamento)
+- Power BI (desenvolvimento do dashboard interativo)  
+- Excel e Power Query (pré-processamento e tratamento de dados)  
+- Python (mineração, limpeza, transformação e análise de dados)  
+- SQL (extração e manipulação de dados)  
+- FTP/DATASUS (coleta e integração de dados públicos)  
+- APIs e bases públicas (aquisição de dados para análise)  
 
 ---
 
