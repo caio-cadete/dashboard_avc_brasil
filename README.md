@@ -87,7 +87,7 @@ Os dados foram acessados via FTP e portais de dados abertos do Governo Federal.
 
 ## ⚠️ Observação
 
-Este projeto foi desenvolvido para fins educacionais e de portfólio, com dados públicos e sem vínculo com empresas ou instituições privadas. Nenhuma informação sensível ou confidencial foi utilizada.
+Este projeto foi desenvolvido com base em um desafio real de negócio e adaptado exclusivamente para fins educacionais e de portfólio. Todos os dados utilizados são públicos e nenhuma informação sensível, institucional ou confidencial foi incluída.
 
 ---
 
